@@ -29,7 +29,6 @@ Este projeto apresenta um Dashboard analítico, construído no **Tableau**, com 
 ## Como Visualizar
 
 * **Online**: [Acesse o dashboard publicado no Tableau Public](https://public.tableau.com/app/profile/gabriel.ferreira2491/viz/DashboardTableauNetflix/Netflix?publish=yes)
-* **Localmente**: Faça o download do arquivo `.twbx` na pasta `tableau/` e abra-o com o Tableau Desktop.
 
 ---
 
